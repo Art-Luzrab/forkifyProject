@@ -1,25 +1,4 @@
-9693
-77C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@trysound133619960379917658 1
-95C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\full\reflect\get.js133620001329449823 0
-133C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property133619960398760685 1
-101C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\stable\instance\values.js133620001340590071 0
-91C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\nullthrows\package.json133619960391295889 0
-95C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\svgo\plugins\removeXlink.js133619960403194922 0
-97C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\domhandler\lib\index.d.ts.map133619960393627092 0
-71C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\src\js\config.js133620813470557332 0
-107C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\modules\es.typed-array.every.js133620001323340192 0
-132C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\cleanupAttrs.js133619960395482127 0
-102C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\lines-and-columns\build\index.d.ts133619960393552690 0
-100C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\stable\typed-array\at.js133620001318439563 0
-87C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\lmdb\src\cursor.cpp133619960403145322 0
-83C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\forkify-flowchart-part-3.png133492464411390507 0
-111C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\update-browserslist-db\check-npm-version.js133619960391608371 0
-77C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\callsites133619960393384048 1
-117C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\csso\node_modules\css-tree\lib\tokenizer\types.js133619960406999249 0
-84C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\sass\types\value133619961194051962 1
-103C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\actual\instance\group-by.js133620001329549022 0
-106C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\full\typed-array\int8-array.js133620001331272731 0
-76C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\css-tree133619960407187720 1
+9695
 99C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\internals\array-sort.js133620001318062597 0
 99C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\caniuse-lite\data\regions\JE.js133619960408804677 0
 107C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\full\string\virtual\includes.js133620001330114458 0
@@ -27,7 +6,7 @@
 99C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\stable\string\strike.js133620001337400519 0
 94C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\js-yaml\lib\type\binary.js133619960392183729 0
 85C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\binary-extensions133619961193188422 1
-75C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\src\js\controller.js133620828778293566 0
+75C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\src\js\controller.js133621755716212187 0
 109C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\lmdb\node_modules\node-addon-api\index.js133619960396776693 0
 120C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@babel\highlight\node_modules\color-convert\index.js133619960393245168 0
 87C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\micromatch\index.js133619960391613329 0
@@ -65,7 +44,7 @@
 88C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\semver\bin\semver.js133619960399678292 0
 122C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\index.cjs133619960401602764 0
 108C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\node-gyp-build-optional-packages\LICENSE133619960391152059 0
-59C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist133620829073917808 1
+59C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist133621760215618712 1
 110C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\css-select\node_modules\domhandler\lib\esm133619960396513809 1
 93C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\ordered-binary\index.d.ts133619960396389806 0
 92C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\semver\functions\sort.js133619960399817171 0
@@ -89,6 +68,8 @@
 95C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\node-addon-api\node_api.gyp133619960392297812 0
 95C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\normalize-path\package.json133619961192520743 0
 119C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@swc\helpers\esm\_class_private_field_loose_base.js133619960404697803 0
+81C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\src\js\views\searchView.js133621740263355496 0
+100C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\es\number\parse-float.js133620001334550504 0
 139C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\structure.js133619960404732522 0
 109C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\modules\esnext.observable.from.js133620001324520865 0
 95C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\htmlparser2\lib\Parser.d.ts133619960396578284 0
@@ -98,6 +79,18 @@
 116C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@swc\helpers\_\_array_like_to_array\package.json133619960406314762 0
 114C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\csso\node_modules\css-tree\cjs\lexer\match.cjs133619960402083885 0
 92C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\timsort\build\timsort.js133619960394286771 0
+77C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@trysound133619960379917658 1
+95C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\full\reflect\get.js133620001329449823 0
+133C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property133619960398760685 1
+101C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\stable\instance\values.js133620001340590071 0
+91C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\nullthrows\package.json133619960391295889 0
+95C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\svgo\plugins\removeXlink.js133619960403194922 0
+97C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\domhandler\lib\index.d.ts.map133619960393627092 0
+71C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\src\js\config.js133620813470557332 0
+107C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\modules\es.typed-array.every.js133620001323340192 0
+132C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\cleanupAttrs.js133619960395482127 0
+102C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\lines-and-columns\build\index.d.ts133619960393552690 0
+83C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\forkify-flowchart-part-3.png133492464411390507 0
 92C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\supports-color\readme.md133619960393463412 0
 114C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\css-select\node_modules\dom-serializer\lib\esm133619960396469166 1
 116C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib133619960400630602 1
@@ -113,7 +106,7 @@
 94C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\csso\lib\replace\Atrule.js133619960401052203 0
 80C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\mdn-data\css133619960398626766 1
 105C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\modules\es.array.to-sorted.js133620001321983114 0
-65C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\index.html133620007553863099 0
+65C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\index.html133621754354653524 0
 95C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\workers\src\process133619960398740844 1
 67C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules133620191589169816 1
 107C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\features\async-iterator\some.js133620001336870949 0
@@ -242,7 +235,7 @@
 94C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\cosmiconfig\dist\util.d.ts133619960401007566 0
 76C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\src\sass\_upload.scss133492464411440108 0
 113C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\caniuse-lite\data\features\async-functions.js133619960399479892 0
-67C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\src\js\views133620823119924759 1
+67C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\src\js\views133621737912575790 1
 80C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\csso\LICENSE133619960391127250 0
 122C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb.c133619960400987725 0
 88C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\msgpackr-extract\bin133619960392848371 1
@@ -251,7 +244,7 @@
 88C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\postcss-value-parser133619960394658768 1
 94C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\csso\cjs\replace\Value.cjs133619960399742764 0
 109C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\stable\number\virtual\to-fixed.js133620001338094911 0
-70C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\src\js\model.js133620827323472628 0
+70C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\src\js\model.js133621756520672894 0
 133C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\restructure\utils.js133619960400734776 0
 112C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@swc\helpers\esm\_assert_this_initialized.js133619960403398288 0
 118C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\htmlnano\lib\modules\removeRedundantAttributes.mjs133619960403373492 0
@@ -267,7 +260,7 @@
 126C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Parentheses.cjs133619960403070923 0
 97C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\css-tree\lib\parser\create.js133619960405665005 0
 103C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\features\iterator\filter.js133620001325843908 0
-81C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\src\js\views\recipeView.js133620809126539866 0
+81C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\src\js\views\recipeView.js133621757148549787 0
 74C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\src\img\favicon.png133492464411400433 0
 100C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\utils\src\escape-html.js133619960397391726 0
 111C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\modules\es.string.is-well-formed.js133620001323032684 0
@@ -373,6 +366,8 @@
 85C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@swc\core\util.js133619960396037655 0
 90C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\css-tree\cjs\generator133619960404722602 1
 89C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\detect-libc\README.md133619960392406933 0
+111C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\update-browserslist-db\check-npm-version.js133619960391608371 0
+77C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\callsites133619960393384048 1
 124C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\030-config.md133619960401612683 0
 137C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\optimizer-htmlnano\node_modules\css-select\lib\types.d.ts.map133619960398259728 0
 86C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\chrome-trace-event133619960393790771 1
@@ -419,6 +414,11 @@
 78C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\css-select133619960401870608 1
 106C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\internals\use-symbol-as-uid.js133620001340210140 0
 140C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\README.md133619960394415734 0
+117C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\csso\node_modules\css-tree\lib\tokenizer\types.js133619960406999249 0
+84C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\sass\types\value133619961194051962 1
+103C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\actual\instance\group-by.js133620001329549022 0
+106C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\full\typed-array\int8-array.js133620001331272731 0
+76C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\css-tree133619960407187720 1
 83C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\source-map\dist133619960398324208 1
 110C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\features\typed-array\int8-array.js133620001331267772 0
 91C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\css-tree\lib\version.js133619960407148040 0
@@ -839,6 +839,7 @@
 100C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\term-size\vendor\macos\.DS_Store133619960392193651 0
 81C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\utility-types133619960396479087 1
 113C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\csso\node_modules\mdn-data\css\selectors.json133619960397619890 0
+125C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\runtime-js\lib\helpers\browser\prefetch-loader.js133619960399276527 0
 82C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\weak-lru-cache133619960395244046 1
 111C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\modules\es.string.to-well-formed.js133620001323171565 0
 93C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\weak-lru-cache\index.d.ts133619960395278766 0
@@ -869,7 +870,7 @@
 120C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\caniuse-lite\data\features\form-submit-attributes.js133619960408055724 0
 96C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\domutils\lib\legacy.d.ts.map133619960396260846 0
 90C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\optimizer-svgo133619960393220368 1
-78C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\index.f7626f62.css133620826958362944 0
+78C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\index.f7626f62.css133621754369831123 0
 96C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\svgo\plugins\minifyStyles.js133619960401592850 0
 101C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\weak-lru-cache\tests\benchmark.js133619960392183729 0
 112C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\optimizer-htmlnano\node_modules\csso133619960401007566 1
@@ -1201,6 +1202,13 @@
 109C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\type-fest\source\require-exactly-one.d.ts133619960398745803 0
 102C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\full\instance\trim-left.js133620001339271432 0
 91C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\normalize-path\index.js133619961192535623 0
+121C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Number.cjs133619960402941973 0
+92C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\safe-buffer\package.json133619960392387089 0
+136C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\walker\index.js133619960402312048 0
+108C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\es\string\virtual\replace-all.js133620001335675300 0
+104C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\caniuse-lite\data\features\path2d.js133619960410064519 0
+113C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\stable\typed-array\find-last-index.js133620001326151420 0
+110C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\posthtml\node_modules\posthtml-parser\dist133619960394643894 1
 103C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\modules\es.object.values.js133620001322645792 0
 103C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\full\array\virtual\group.js133620001329742455 0
 102C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\type-fest\source\set-optional.d.ts133619960398790446 0
@@ -1932,13 +1940,6 @@
 99C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\sass\types\legacy\function.d.ts133619961193774201 0
 125C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\csso\node_modules\css-tree\lib\syntax\node\Declaration.js133619960405798919 0
 98C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\sass\types\legacy\options.d.ts133619961193858515 0
-121C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\csso\node_modules\css-tree\cjs\syntax\node\Number.cjs133619960402941973 0
-92C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\safe-buffer\package.json133619960392387089 0
-136C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\walker\index.js133619960402312048 0
-108C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\es\string\virtual\replace-all.js133620001335675300 0
-104C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\caniuse-lite\data\features\path2d.js133619960410064519 0
-113C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\stable\typed-array\find-last-index.js133620001326151420 0
-110C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\posthtml\node_modules\posthtml-parser\dist133619960394643894 1
 98C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\css-what\lib\es\stringify.d.ts133619960398200216 0
 95C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\full\weak-map\of.js133620001334357060 0
 89C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\safe-buffer\README.md133619960392848371 0
@@ -2627,6 +2628,8 @@
 99C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\lmdb\util\set-optional-deps.cjs133619960403085806 0
 132C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\sort.d.ts.map133619960397798448 0
 85C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\lmdb\util\when.js133619960405421961 0
+100C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\stable\typed-array\at.js133620001318439563 0
+87C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\lmdb\src\cursor.cpp133619960403145322 0
 84C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\lmdb\src\dbi.cpp133619960403170133 0
 106C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\actual\typed-array\subarray.js133620001337643557 0
 93C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\full\math\sinh.js133620001336444095 0
@@ -4025,6 +4028,7 @@
 124C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\csso\lib\restructure\prepare\createDeclarationIndexer.js133619960401672210 0
 133C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\css-select\node_modules\entities\lib\esm\generated\encode-html.js133619960395804529 0
 110C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\actual\instance\group-by-to-map.js133620001329509347 0
+75C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\src\js\views\View.js133621760215216960 0
 115C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\csso\lib\restructure\prepare\processSelector.js133619960402966765 0
 97C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\csso\lib\replace\Dimension.js133619960402064045 0
 122C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@swc\helpers\_\_object_without_properties\package.json133619960407371240 0
@@ -4220,8 +4224,8 @@
 97C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\css-tree\lib\lexer\generic.js133619960406324684 0
 95C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\css-tree\lib\lexer\match.js133619960406632203 0
 93C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\css-tree\cjs\syntax\scope133619960405218604 1
-104C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\css-tree\lib\lexer\prepare-tokens.js133619960406850444 0
 99C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\full\symbol\metadata.js133620001333945385 0
+104C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\css-tree\lib\lexer\prepare-tokens.js133619960406850444 0
 100C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\es\instance\match-all.js133620001333647786 0
 104C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\diagnostic\src\diagnostic.js133619960392719408 0
 95C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\actual\map\index.js133620001330337656 0
@@ -5918,7 +5922,7 @@
 123C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\transformer-posthtml\lib\PostHTMLTransformer.js133619960393294770 0
 109C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\internals\length-of-array-like.js133620001332990191 0
 102C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\internals\make-built-in.js133620001333158834 0
-77C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\logo.726d37a8.png133620826958060384 0
+77C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\logo.726d37a8.png133621754369915436 0
 100C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\internals\map-helpers.js133620001333163795 0
 99C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\internals\map-upsert.js133620001333294143 0
 102C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\internals\math-f16round.js133620001333806500 0
@@ -7247,8 +7251,6 @@
 106C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\actual\number\virtual\index.js133620001330352535 0
 99C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\caniuse-lite\data\regions\MR.js133619960409672680 0
 105C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\es\number\min-safe-integer.js133620001333990019 0
-81C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\src\js\views\searchView.js133620829073476361 0
-100C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\es\number\parse-float.js133620001334550504 0
 98C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\es\number\parse-int.js133620001334600101 0
 103C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\es\number\to-exponential.js133620001338025474 0
 97C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\es\number\to-fixed.js133620001338065156 0
@@ -7753,7 +7755,7 @@
 98C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\actual\array\values.js133620001340289551 0
 102C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\actual\array\virtual\at.js133620001318300679 0
 106C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\actual\array\virtual\concat.js133620001319109156 0
-80C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\favicon.8b2f57bf.png133620826958189347 0
+80C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\favicon.8b2f57bf.png133621754369940238 0
 111C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\actual\array\virtual\copy-within.js133620001319411719 0
 105C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\actual\array\virtual\every.js133620001325362785 0
 104C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\actual\array\virtual\fill.js133620001325600861 0
@@ -8764,7 +8766,6 @@
 117C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\runtime-js\lib\helpers\node\css-loader.js133619960395715247 0
 116C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\runtime-js\lib\helpers\node\js-loader.js133619960398244846 0
 120C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\runtime-js\lib\helpers\browser\css-loader.js133619960395452366 0
-125C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\runtime-js\lib\helpers\browser\prefetch-loader.js133619960399276527 0
 121C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\runtime-js\lib\helpers\browser\wasm-loader.js133619960399559255 0
 99C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\runtime-browser-hmr\lib133619960393756052 1
 108C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\runtime-browser-hmr\package.json133619960395253974 0
@@ -9172,7 +9173,7 @@
 150C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeUselessStrokeAndFill.js133619960401667248 0
 137C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeViewBox.js133619960401697004 0
 141C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeXMLProcInst.js133619960401811085 0
-82C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\index.f7626f62.css.map133620826958382783 0
+82C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\index.f7626f62.css.map133621754369855936 0
 134C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\reusePaths.js133619960401840851 0
 133C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\sortAttrs.js133619960401870608 0
 150C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\function\expression.js133619960400709976 0
@@ -9687,8 +9688,9 @@
 99C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\.bin\update-browserslist-db.cmd133619960412475080 0
 90C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\forkifyProject.3464ddca.js.map133619979490027084 0
 81C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\index.62406edb.js.map133619995312632164 0
-78C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\icons.21bad73c.svg133620826957976065 0
-78C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\icons.dfd7a6db.svg133620826957995910 0
-70C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\index.html133620826958318308 0
-77C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\index.e37f48ea.js133620829073892998 0
-81C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\index.e37f48ea.js.map133620829073912841 0
+82C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\src\js\views\resultsView.js133621758928147129 0
+70C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\index.html133621754369831123 0
+78C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\icons.21bad73c.svg133621754369930319 0
+78C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\icons.dfd7a6db.svg133621754370113837 0
+77C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\index.e37f48ea.js133621760215593919 0
+81C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\index.e37f48ea.js.map133621760215613753 0
