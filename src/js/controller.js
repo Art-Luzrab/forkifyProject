@@ -7,9 +7,9 @@ import 'core-js/stable';
 import 'regenerator-runtime';
 import { async } from 'regenerator-runtime';
 
-if (module.hot) {
-  module.hot.accept();
-}
+// if (module.hot) {
+//   module.hot.accept();
+// }
 
 ///////////////////////////////////////
 
@@ -43,7 +43,8 @@ const controlSearchResults = async function () {
 
     //3 Render results
 
-    resultsView.render(model.state.search.results);
+    // resultsView.render(model.state.search.results);
+    resultsView.render(model.getSearchResultsPage());
   } catch (err) {
     console.log(err);
   }
