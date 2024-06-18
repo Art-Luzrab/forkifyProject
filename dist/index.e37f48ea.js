@@ -642,8 +642,7 @@ const controlPagination = function(goToPage) {
 const controlServings = function(newServings) {
     // Update the recipe servings (in state)
     _modelJs.updateServings(newServings);
-    // Update the recipe view
-    // recipeView.render(model.state.recipe);
+    // Update the recipe viewgit
     (0, _recipeViewJsDefault.default).update(_modelJs.state.recipe);
 };
 const controlAddBookmark = function() {
