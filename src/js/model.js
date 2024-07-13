@@ -13,8 +13,8 @@ export const state = {
 };
 
 const createRecipeObject = function (data) {
-  return ({ recipe } = data.data);
-  state.recipe = {
+  const { recipe } = data.data;
+  return {
     id: recipe.id,
     title: recipe.title,
     publisher: recipe.publisher,
@@ -116,7 +116,7 @@ init();
 console.log(state.bookmarks);
 
 const clearBookmarks = function () {
-  localStorage.clear('bookamrks');
+  localStorage.clear('bookmarks');
 };
 // clearBookmarks();
 

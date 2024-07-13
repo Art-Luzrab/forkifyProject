@@ -142,7 +142,7 @@
       this[globalName] = mainExports;
     }
   }
-})({"hycaY":[function(require,module,exports) {
+})({"MWpgg":[function(require,module,exports) {
 var global = arguments[3];
 var HMR_HOST = null;
 var HMR_PORT = null;
@@ -616,6 +616,8 @@ const controlRecipes = async function() {
         (0, _bookmarksViewJsDefault.default).update(_modelJs.state.bookmarks);
         // 2) Loading recipe
         await _modelJs.loadRecipe(id);
+        //Check if recipe data is loaded correctly
+        if (!_modelJs.state.recipe) throw new Error("Recipe not found!");
         // 3) Rendering recipe
         (0, _recipeViewJsDefault.default).render(_modelJs.state.recipe);
     } catch (err) {
@@ -2568,7 +2570,20 @@ const state = {
     bookmarks: []
 };
 const createRecipeObject = function(data) {
-    return { recipe } = data.data;
+    const { recipe } = data.data;
+    return {
+        id: recipe.id,
+        title: recipe.title,
+        publisher: recipe.publisher,
+        sourceUrl: recipe.source_url,
+        image: recipe.image_url,
+        servings: recipe.servings,
+        cookingTime: recipe.cooking_time,
+        ingredients: recipe.ingredients,
+        ...recipe.key && {
+            key: recipe.key
+        }
+    };
 };
 const loadRecipe = async function(id) {
     try {
@@ -2617,11 +2632,11 @@ const updateServings = function(newServings) {
 const persistBookmarks = function() {
     localStorage.setItem("bookmarks", JSON.stringify(state.bookmarks));
 };
-const addBookmark = function(recipe1) {
+const addBookmark = function(recipe) {
     // Add bookmark
-    state.bookmarks.push(recipe1);
+    state.bookmarks.push(recipe);
     // Mark current recipe as bookmarked
-    if (recipe1.id === state.recipe.id) state.recipe.bookmarked = true;
+    if (recipe.id === state.recipe.id) state.recipe.bookmarked = true;
     persistBookmarks();
 };
 const deleteBookmark = function(id) {
@@ -2639,7 +2654,7 @@ const init = function() {
 init();
 console.log(state.bookmarks);
 const clearBookmarks = function() {
-    localStorage.clear("bookamrks");
+    localStorage.clear("bookmarks");
 };
 const uploadRecipe = async function(newRecipe) {
     try {
@@ -2653,7 +2668,7 @@ const uploadRecipe = async function(newRecipe) {
                 description
             };
         });
-        const recipe1 = {
+        const recipe = {
             title: newRecipe.title,
             source_url: newRecipe.sourceUrl,
             image_url: newRecipe.image,
@@ -2662,10 +2677,10 @@ const uploadRecipe = async function(newRecipe) {
             servings: +newRecipe.servings,
             ingredients
         };
-        const data = await (0, _helpers.sendJSON)(`${(0, _config.API_URL)}?key=${(0, _config.KEY)}`, recipe1);
+        const data = await (0, _helpers.sendJSON)(`${(0, _config.API_URL)}?key=${(0, _config.KEY)}`, recipe);
         state.recipe = createRecipeObject(data);
         addBookmark(state.recipe);
-        state.recipe = recipe1;
+        state.recipe = recipe;
     } catch (err) {
         throw err;
     }
@@ -2757,9 +2772,9 @@ class RecipeView extends (0, _viewJsDefault.default) {
         this._parentElement.addEventListener("click", function(e) {
             const btn = e.target.closest(".btn--update-servings");
             if (!btn) return;
-            const updateTo = +btn.dataset.updateTo;
+            const { updateTo } = btn.dataset;
             console.log(updateTo);
-            if (updateTo > 0) handler(updateTo);
+            if (+updateTo > 0) handler(+updateTo);
         });
     }
     addHandlerAddBookmark(handler) {
@@ -2771,6 +2786,7 @@ class RecipeView extends (0, _viewJsDefault.default) {
         });
     }
     _generateMarkup() {
+        console.log(this._data.ingredients);
         return `
     <figure class="recipe__fig">
           <img src="${this._data.image}" alt="${this._data.title}" class="recipe__img" />
@@ -2847,8 +2863,9 @@ class RecipeView extends (0, _viewJsDefault.default) {
     }
     _generateMarkupIngredient(ing) {
         return `
-      <li class="recipe__ingredient">
+    <li class="recipe__ingredient">
       <svg class="recipe__icon">
+        <use href="${0, _iconsSvgDefault.default}#icon-check"></use>
       </svg>
       <div class="recipe__quantity">${ing.quantity ? new (0, _fractional.Fraction)(ing.quantity).toString() : ""}</div>
       <div class="recipe__description">
@@ -2856,7 +2873,7 @@ class RecipeView extends (0, _viewJsDefault.default) {
         ${ing.description}
       </div>
     </li>
-      `;
+  `;
     }
 }
 exports.default = new RecipeView();
@@ -3167,9 +3184,6 @@ class View {
         this._clear();
         this._parentElement.insertAdjacentHTML("afterbegin", markup);
     }
-    _clear() {
-        this._parentElement.innerHTML = "";
-    }
     update(data) {
         this._data = data;
         const newMarkup = this._generateMarkup();
@@ -3186,6 +3200,9 @@ class View {
             if (!newEl.isEqualNode(curEl)) Array.from(newEl.attributes).forEach((attr)=>curEl.setAttribute(attr.name, attr.value));
         });
     }
+    _clear() {
+        this._parentElement.innerHTML = "";
+    }
     renderSpinner() {
         const markup = `
     <div class="spinner">
@@ -3199,7 +3216,7 @@ class View {
     }
     renderError(message = this._errorMessage) {
         const markup = `
-    <div class="message">
+    <div class="error">
             <div>
               <svg>
                 <use href="${(0, _iconsSvgDefault.default)}#icon-alert-triangle"></use>
@@ -3413,10 +3430,10 @@ class AddRecipeView extends (0, _viewJsDefault.default) {
     addHandlerUpload(handler) {
         this._parentElement.addEventListener("submit", function(e) {
             e.preventDefault();
-            const dataArray = [
+            const dataArr = [
                 ...new FormData(this)
             ];
-            const data = Object.fromEntries(dataArray);
+            const data = Object.fromEntries(dataArr);
             handler(data);
         });
     }
@@ -3424,6 +3441,6 @@ class AddRecipeView extends (0, _viewJsDefault.default) {
 }
 exports.default = new AddRecipeView();
 
-},{"url:../../img/icons.svg":"loVOp","./View.js":"5cUXS","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}]},["hycaY","aenu9"], "aenu9", "parcelRequire9fa7")
+},{"url:../../img/icons.svg":"loVOp","./View.js":"5cUXS","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}]},["MWpgg","aenu9"], "aenu9", "parcelRequire9fa7")
 
 //# sourceMappingURL=index.e37f48ea.js.map

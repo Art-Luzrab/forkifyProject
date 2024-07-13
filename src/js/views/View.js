@@ -15,9 +15,6 @@ export default class View {
     this._clear();
     this._parentElement.insertAdjacentHTML('afterbegin', markup);
   }
-  _clear() {
-    this._parentElement.innerHTML = '';
-  }
 
   update(data) {
     this._data = data;
@@ -48,6 +45,10 @@ export default class View {
     });
   }
 
+  _clear() {
+    this._parentElement.innerHTML = '';
+  }
+
   renderSpinner() {
     const markup = `
     <div class="spinner">
@@ -62,7 +63,7 @@ export default class View {
 
   renderError(message = this._errorMessage) {
     const markup = `
-    <div class="message">
+    <div class="error">
             <div>
               <svg>
                 <use href="${icons}#icon-alert-triangle"></use>

@@ -33,6 +33,8 @@ const controlRecipes = async function () {
     // 2) Loading recipe
     await model.loadRecipe(id);
 
+    //Check if recipe data is loaded correctly
+    if (!model.state.recipe) throw new Error('Recipe not found!');
     // 3) Rendering recipe
 
     recipeView.render(model.state.recipe);
