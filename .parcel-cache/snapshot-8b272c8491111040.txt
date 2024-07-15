@@ -44,7 +44,7 @@
 88C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\semver\bin\semver.js133652240141851483 0
 122C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\index.cjs133652240137263488 0
 108C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\node-gyp-build-optional-packages\LICENSE133652240140919003 0
-59C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist133655483491436696 1
+59C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist133655492043817268 1
 110C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\css-select\node_modules\domhandler\lib\esm133652240135512613 1
 93C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\ordered-binary\index.d.ts133652240141137243 0
 92C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\semver\functions\sort.js133652240141930841 0
@@ -223,7 +223,7 @@
 77C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\src\sass\_preview.scss133652240142902999 0
 133C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\css-select\node_modules\entities\lib\esm\generated\encode-html.js133652240135874692 0
 110C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\core-js\actual\instance\group-by-to-map.js133652240115969421 0
-75C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\src\js\views\View.js133653241420629604 0
+75C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\src\js\views\View.js133655492043425429 0
 115C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\csso\lib\restructure\prepare\processSelector.js133652240137119650 0
 76C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\src\sass\_recipe.scss133652240142907960 0
 97C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\node_modules\@swc\helpers\cjs\_type_of.cjs133652240111917111 0
@@ -9696,5 +9696,5 @@
 70C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\index.html133655476415183585 0
 78C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\icons.21bad73c.svg133655482063171214 0
 78C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\icons.dfd7a6db.svg133655482063855686 0
-77C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\index.e37f48ea.js133655483491411896 0
-81C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\index.e37f48ea.js.map133655483491431749 0
+77C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\index.e37f48ea.js133655492043792468 0
+81C:\Users\Arthur Barzul\Desktop\Projects\forkifyProject\dist\index.e37f48ea.js.map133655492043812307 0
