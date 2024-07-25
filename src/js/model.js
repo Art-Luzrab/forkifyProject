@@ -156,4 +156,3 @@ export const uploadRecipe = async function (newRecipe) {
     throw err;
   }
 };
-console.log('INTEGRATION ON');
